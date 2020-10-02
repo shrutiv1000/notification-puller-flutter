@@ -1,6 +1,6 @@
 # notif
 
-A new Flutter application to read and store notifications as ListView
+A new Flutter application to read and store notifications
 
 ## Getting Started
 
